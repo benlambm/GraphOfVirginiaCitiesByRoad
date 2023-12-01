@@ -6,7 +6,7 @@
 # Compiled Java classes
 bin/
 target/
-.class
+*.class
 
 # Package files
 *.jar
