@@ -1,10 +1,10 @@
-# GraphOfVirginiaCitiesByRoad README
+# GraphOfVirginiaCitiesByRoad README 🛣️ 
 
-## Introduction
+## Introduction 🔍
 
-GraphOfVirginiaCitiesByRoad is a Java-based application that creates a graph of major Virginia cities and computes the shortest path between any two cities by road. It utilizes the JGraphT library to manage and process graph data efficiently.
+GraphOfVirginiaCitiesByRoad is a demo Java-based graph application that creates a graph of major Virginia cities and computes the shortest path between any two cities by road. It utilizes the JGraphT library to manage and process graph data efficiently.
 
-## Features
+## Features 🚗 
 
 - Initializes a simple weighted, unidirectional graph of select cities in Virginia.
 - Finds the shortest path between any two cities based on road distances.
@@ -12,17 +12,16 @@ GraphOfVirginiaCitiesByRoad is a Java-based application that creates a graph of 
 
 ## Prerequisites
 
+Download [JGraphT Library](https://www.jgrapht.org/download.html), manually (not using Maven), unarchive it, find the two jars listed below (core and Jheaps) in the lib folder, and add them to your Build Path:
 - Java JDK 17 or later.
 - JGraphT core library (version 1.5.2).
 - JHeaps library (version 0.14).
-
-Download [JGraphT Library](https://www.jgrapht.org/download.html), manually (not using Maven), unarchive it, find the two jars in the lib folder, and add them to your Build Path.
 
 
 ### Step 3: Set Up the Project
 
 1. Open your Java IDE (e.g., Eclipse, IntelliJ IDEA).
-2. Import the files
+2. Import the files however you wish (git, etc)
 3. Ensure that the following files are included in your project:
    - `edu/vwcc/citygraph`
    - `AnyTextReader.java`
@@ -33,7 +32,7 @@ Download [JGraphT Library](https://www.jgrapht.org/download.html), manually (not
 
 ## Usage
 
-1. Run `Main.java` to start the application.
+1. Run `Main.java` in your IDE to start the application.
 2. Follow the on-screen instructions to input two Virginia cities.
 3. The program will display the shortest path by road between the selected cities.
 
@@ -53,9 +52,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Thanks to the JGraphT team for their excellent graph library.
-- This project was inspired by the road networks of Virginia.
+- Thanks to the JGraphT team for their excellent graph library!
+- This project was inspired by VDOT :) 
 
 ---
 
-For more information or support, please contact the repository owner.
+For more information or support, please contact the repository owner: [Ben Lamb](https://benlamb.github.io)
+
