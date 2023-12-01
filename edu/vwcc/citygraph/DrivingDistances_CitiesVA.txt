@@ -1,0 +1,18 @@
+Richmond: Virginia Beach-107, Norfolk-86, Chesapeake-95, Arlington-108, Roanoke-143, Charlottesville-70, Fredericksburg-58, Lynchburg-115
+Virginia Beach: Norfolk-18, Richmond-107
+Norfolk: Virginia Beach-18, Richmond-86
+Chesapeake: Richmond-95
+Arlington: Alexandria-7, Richmond-108, Winchester-75, Fredericksburg-53
+Alexandria: Arlington-7
+Roanoke: Richmond-143, Charlottesville-117, Staunton-85, Martinsville-44, Lynchburg-55, Christiansburg-34
+Charlottesville: Richmond-70, Roanoke-117, Staunton-38, Lynchburg-68
+Staunton: Roanoke-85, Charlottesville-38, Harrisonburg-26
+Harrisonburg: Staunton-26, Winchester-54
+Winchester: Harrisonburg-54, Arlington-75
+Fredericksburg: Richmond-58, Arlington-53
+Martinsville: Roanoke-44
+Danville: Lynchburg-44
+Lynchburg: Roanoke-55, Charlottesville-68, Richmond-115, Danville-44
+Christiansburg: Roanoke-34, Blacksburg-10, Radford-10
+Blacksburg: Christiansburg-10
+Radford: Christiansburg-10
